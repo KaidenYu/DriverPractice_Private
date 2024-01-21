@@ -6,7 +6,7 @@
 >> 
 >> and the new commit will only consider my own coveniency
 >> 
->> Please fork the original repo https://github.com/starnight/DriverPractice for contribution
+>> Please fork the original repo https://github.com/starnight/DriverPractice for contribution instead of this one
 
 &nbsp;
 &nbsp;
